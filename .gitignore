@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Virtual environment
+myenv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+log/
+.log
+.db
+.db/
+
+.data/
+.cache/
+
+
