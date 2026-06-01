@@ -14,8 +14,11 @@ log/
 .log
 .db
 .db/
+<<<<<<< HEAD
 
 .data/
 .cache/
 
 
+=======
+>>>>>>> d36d1b8d9c96982daec186a95f7ab6fbb9ae45fc
